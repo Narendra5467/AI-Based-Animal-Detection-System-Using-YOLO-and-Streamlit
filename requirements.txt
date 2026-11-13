@@ -1,5 +1,0 @@
-streamlit
-ultralytics
-numpy<2.3
-pillow
-pandas
